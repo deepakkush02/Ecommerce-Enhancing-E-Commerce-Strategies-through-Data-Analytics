@@ -40,3 +40,6 @@ The "EcommerceDataset2.xlsx" file contains the following columns:
 6. **LastOrderDate**: Date of the customer's last order.
 7. **TotalSpent**: Total amount spent by the customer.
 8. **Customer Communication Log:** Detailed communication logs for each customer.
+## Dashboard: 
+![dashboard](https://github.com/deepakkush02/Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics/blob/main/Dashboard%201.png)
+![Dashboard](https://github.com/deepakkush02/Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics/blob/main/Dashboard%201.png)
