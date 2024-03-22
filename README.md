@@ -1,5 +1,5 @@
-# Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics
-# Ecommerce
+> # Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics
+![](https://github.com/deepakkush02/Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics/blob/main/12.png)
 
 ### **Case Study: Enhancing E-Commerce Strategies through Data Analytics**
 
@@ -15,7 +15,7 @@ Your mission is to utilize Tableau's robust capabilities to craft a compelling n
 
 ### **Data Source:**
 
-[EcommerceDataset1.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/07ec29ab-411b-4b17-a413-27f1fbd798c7/EcommerceDataset1.xlsx)
+[EcommerceDataset1.xlsx](https://github.com/deepakkush02/Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics/blob/main/EcommerceDataset1.xlsx)
 
 The "EcommerceDataset1.xlsx" file contains the following columns:
 
@@ -28,7 +28,7 @@ The "EcommerceDataset1.xlsx" file contains the following columns:
 7. **ShippingCost**: Cost of shipping for the order.
 8. **CustomerID**: A unique identifier for each customer.  (Primary Key)
 
-[EcommerceDataset2.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/edae67de-d62e-4613-b11a-2749b0a2149b/EcommerceDataset2.xlsx)
+[EcommerceDataset2.xlsx](https://github.com/deepakkush02/Ecommerce-Enhancing-E-Commerce-Strategies-through-Data-Analytics/blob/main/EcommerceDataset2.xlsx)
 
 The "EcommerceDataset2.xlsx" file contains the following columns:
 
